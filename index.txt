@@ -1,10 +1,10 @@
-Foodie. - Supper delicious Burger in town!
+Foodies. - Supper delicious Burger in town!
 
 
 
 #---------- HEADER ----------#
 
-Foodie.
+Foodies.
 
 Home
 About Us
@@ -40,9 +40,7 @@ Eat Sleep And
 
 Supper delicious Burger in town!
 
-Food is any substance consumed to
-provide nutritional support for an organism.
-Book A Table
+Eat whatever you want, and if someone tries to lecture you about your weight, eat them too!
 
 alt = Burger
 
@@ -52,7 +50,7 @@ alt = Burger
 
 Maxican Pizza
 
-Food is any substance consumed to provide nutritional support for an organism.
+The beauty of mexican pizzais that it's so veritile.You can custimize it to your liking with different topings and spices .
 
 Soft Drinks
 
@@ -70,20 +68,18 @@ alt = Burger with Drinks
 
 alt = get up to 50% off now
 
-Foodie, Burgers, and Best Pizzas in Town!
+Coffee, Burgers, and Best Pizzas in Town!
 
-The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families.
+A great restaurant is one that just makes you feel like you're not sure whether you went out or you came home and confuses you. If it can do both of those things at the same time, you're hooked. So we treat our Customers as our family members, and our whole staff and us are always with you to provide the best as we can
 
 <ion-icon name="checkmark-outline"></ion-icon>
 Delicious & Healthy Foods
 
-Spacific Family And Kids Zone
-
+Delicious & Healthy Foods
+Specific Family And Kids Zone
+Wedding and Couple's Special
 Music & Other Facilities
-
 Fastest Food Home Delivery
-
-Order Now
 
 
 
@@ -93,7 +89,7 @@ Popular Dishes
 
 Our Delicious Foods
 
-Food is any substance consumed to provide nutritional support for an organism.
+Food is the ultimate pacifier. I feel like I can forgive anyone after a scrumptious mea
 
 All
 Pizza
@@ -173,9 +169,9 @@ $69.00
 
 #---------- CTA ----------#
 
-The Foodie Have Excellent Of Quality Burgers!
+The Foodies Have Excellent Of Quality Burgers!
 
-The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families.
+If you want to create memories eat Foodies best burger with your friends. Life is like a burger, the more ingredients you add to it, the tastier it becomes.No burgers, No enjoyment in Life.
 
 Order Now
 
@@ -189,7 +185,7 @@ alt = get up to 50% off now
 
 A Moments Of Delivered On Right Time & Place
 
-The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families.
+If Your food is delivered on time then you may feel relieved and satisfied that your food has arrived as expected. You may also feel grateful to the delivery person for their timely service. Additionally, You may feel excited to finally enjoy your meal, particularly if you was very hungry and looking forward to it. Overall, Foodies provide best delivery service to our Customers.
 
 Order Now
 
@@ -205,8 +201,7 @@ Testimonials
 
 Our Customers Reviews
 
-Food is any substance consumed to provide nutritional
-support for an organism.
+“We are so grateful for your kind words. Thanks for sharing your review with us and the community.”
 
 alt = Robert William
 
@@ -214,7 +209,7 @@ Robert William
 
 CEO Kingfisher
 
-"I would be lost without restaurant. I would like to personally thank you for your outstanding product."
+"The food at Foodies is absolutely amazing!. I highly recommend the truffle pasta - it's one of the best dishes I've ever had!"
 
 <ion-icon name="star"></ion-icon>
 
@@ -260,7 +255,7 @@ Latest Blog Posts
 
 This Is All About Foods
 
-Food is any substance consumed to provide nutritional support for an organism.
+“ Good food is the foundation of genuine happiness. ”
 
 alt = What Do You Think About Cheese Pizza Recipes?
 
@@ -291,7 +286,7 @@ Chicken
 
 #---------- FOOTER ----------#
 
-Foodie.
+Foodies.
 
 Financial experts support or help you to to find out which way you can raise your funds more.
 
@@ -302,11 +297,11 @@ Financial experts support or help you to to find out which way you can raise you
 
 Contact Info
 
-+1 (062) 109-9222
++91 8800957833
 
-Info@YourGmail24.com
+Foodies713@gmail.com
 
-153 Williamson Plaza, Maggieberg, MT 09514
+Ground and First Floor Plot No C-24/7 old plot no.7, Roshanpura, Najafgarh, Delhi, 110043
 
 Opening Hours 
 
@@ -336,7 +331,7 @@ placeholder = Message
 
 Book a Table
 
-&copy; 2022 codewithsadee All Rights Reserved.
+&copy; 2023 Foodies All Rights Reserved.
 
 
 
