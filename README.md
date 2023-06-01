@@ -41,5 +41,5 @@ If you want to contact with me you can reach me at
 
 ### License
 
-This project is **free to use** and does not contain any license.
+This project is  contain a license.
 
