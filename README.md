@@ -4,7 +4,8 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/Foodies)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Foodies?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Foodies?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+  ![Linkedln](https://www.linkedin.com/in/ashok-kumar-prajapat-454675196/
+)]
  
 
   <br />
